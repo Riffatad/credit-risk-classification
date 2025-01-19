@@ -1,4 +1,3 @@
-# Module 12 Report Template
 
 ## Overview of the Analysis:
 The purpose of this analysis was to predict the likelihood of loans being classified as either healthy (0) or high-risk (1) using machine learning models. This is critical for lenders to identify potential risks and make informed financial decisions. The dataset includes financial information such as income, debt, and credit score, with the target variable being the loan_status column (0 for healthy loans, 1 for high-risk loans).
